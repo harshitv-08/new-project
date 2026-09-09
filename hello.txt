@@ -1,2 +1,8 @@
 Hello GitHub!
 I am learning
+1. git clone       → Get project from GitHub
+2. Make changes    → Work on your computer
+3. git add         → Prepare changes
+4. git commit      → Save changes in local Git
+5. git push        → Send changes to GitHub
+6. git pull        → Get other people's changes
