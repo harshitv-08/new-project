@@ -6,3 +6,5 @@ I am learning
 4. git commit      → Save changes in local Git
 5. git push        → Send changes to GitHub
 6. git pull        → Get other people's changes
+it's done
+
